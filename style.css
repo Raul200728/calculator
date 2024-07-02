@@ -1,0 +1,59 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    display: center;
+    text-align: center;
+    background-color: #2f2841;
+    justify-content: center;
+}
+
+h1 {
+    margin: 0;
+    margin-top: 11%;
+    justify-content: center;
+}
+
+h2 {
+    margin: 0;
+    margin-top: 11%;
+    justify-content: center;
+}
+
+h3 {
+    color: #00ff88;
+}
+
+input[type="number"] {
+    color: #fff;
+    text-align: center;
+    display: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0px 40px 90px #000000;
+    background: #201b2c;
+    border-radius: 20px;
+    border: none;
+    font-weight: 800;
+}
+
+
+.imagem {
+    margin: 0;
+    border-radius: 5%;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 20px 60px #00000056;
+}
+
+div {
+    margin-top: 5%;
+}
+
+button {
+    background-color: #00ff88;
+    color: white;
+    border-radius: 2vh;
+    font-size: medium;
+    margin: 0;
+    font-weight: 700;
+    color: #2f2841;
+    border: none;
+}
